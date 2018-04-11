@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/josephofiowa/anacondacon18/master)
+
 # What You're Missing Out on in TensorFlow
 
 I'll discuss three popular high-level APIs that improve your TensorFlow development experience. Attendees will walk away with an understanding of:
